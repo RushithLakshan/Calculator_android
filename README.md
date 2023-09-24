@@ -7,5 +7,5 @@
 <br>
 <img src="https://github.com/RushithLakshan/Calculator_android/assets/138550127/e9ff0998-ec0f-4bf4-9782-0f4f251cb7be" width="342" height="608">
 <br>
-<img src="https://github.com/RushithLakshan/Calculator_android/assets/138550127/dce92c65-8866-4c2a-bcfd-331099ca567c" width="342" height="608">
+<img src="https://github.com/RushithLakshan/Calculator_android/assets/138550127/dce92c65-8866-4c2a-bcfd-331099ca567c" width="608" height="342">
 
