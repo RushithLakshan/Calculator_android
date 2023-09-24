@@ -1,7 +1,7 @@
 # Calculator_android
 
 ## A simple calculator app
-![Screenshot_20230924_164656](https://github.com/RushithLakshan/Calculator_android/assets/138550127/8eb62775-dfd7-44ff-90e5-f5e6465f40a8)
+![Screenshot_20230924_164656](https://github.com/RushithLakshan/Calculator_android/assets/138550127/8eb62775-dfd7-44ff-90e5-f5e6465f40a8 | width=300)
 
 ![Screenshot_20230924_164802](https://github.com/RushithLakshan/Calculator_android/assets/138550127/88b11dc5-94af-4175-b6c3-7fd991274935)
 
